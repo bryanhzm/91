@@ -1,0 +1,10 @@
+{
+"apkDownloadUrl": "https://bitbucket.org/techGay/91porn/downloads/app-beta-v1.1.5.apk",
+"updateMessage": "主要修复两个问题\n
+                  1. 修复由于重构导致91视频打开需要会员的错误\n
+                  2. 修复论坛帖子打开错误问题\n
+                  3. 暂停HTTP代理设置
+",
+"versionCode": 16,
+"versionName": "1.1.5"
+}

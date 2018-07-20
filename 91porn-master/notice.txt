@@ -1,0 +1,9 @@
+{
+  "noticeMessage": "
+  项目24小时后删除，感谢各位老铁的支持。
+  ",
+  "noticeTime": "2018年2月5日",
+   "noticeTitle": "公告",
+   "noticeer": "Adimn",
+   "versionCode": 5
+ }
